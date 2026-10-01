@@ -1,0 +1,15 @@
+C:\Users\B217\source\repos\MYRP\bin\Debug\MYRP.exe.config
+C:\Users\B217\source\repos\MYRP\bin\Debug\MYRP.exe
+C:\Users\B217\source\repos\MYRP\bin\Debug\MYRP.pdb
+C:\Users\B217\source\repos\MYRP\obj\Debug\MYRP.csproj.AssemblyReference.cache
+C:\Users\B217\source\repos\MYRP\obj\Debug\MainWindow.g.cs
+C:\Users\B217\source\repos\MYRP\obj\Debug\App.g.cs
+C:\Users\B217\source\repos\MYRP\obj\Debug\MYRP_MarkupCompile.cache
+C:\Users\B217\source\repos\MYRP\obj\Debug\MYRP_MarkupCompile.lref
+C:\Users\B217\source\repos\MYRP\obj\Debug\MainWindow.baml
+C:\Users\B217\source\repos\MYRP\obj\Debug\MYRP.g.resources
+C:\Users\B217\source\repos\MYRP\obj\Debug\MYRP.Properties.Resources.resources
+C:\Users\B217\source\repos\MYRP\obj\Debug\MYRP.csproj.GenerateResource.cache
+C:\Users\B217\source\repos\MYRP\obj\Debug\MYRP.csproj.CoreCompileInputs.cache
+C:\Users\B217\source\repos\MYRP\obj\Debug\MYRP.exe
+C:\Users\B217\source\repos\MYRP\obj\Debug\MYRP.pdb
